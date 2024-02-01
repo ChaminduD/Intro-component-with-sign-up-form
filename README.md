@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-intro-component-with-sign-up-form-using-css-grid-LDoO_QVRAY)
+- Live Site URL: [Live site URL here](https://chamindud.github.io/Intro-component-with-sign-up-form/)
 
 ## My process
 
@@ -75,7 +75,7 @@ function claim(){
 
 ### Continued development
 
-I'm looking to improve my CSS knowledge to design more unique and new stuff.
+I'm looking to improve my CSS & JavaScript knowledge to design more unique and new stuff.
 
 ## Author
 
